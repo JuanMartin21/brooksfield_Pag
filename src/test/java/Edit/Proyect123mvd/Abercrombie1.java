@@ -21,6 +21,7 @@ public class Abercrombie1 {
 		driver.findElement(By.id("headerProfile")).click();
 		driver.findElement(By.id("signInEmail")).sendKeys("autom3775@gmail.com");
 		driver.findElement(By.cssSelector("#signInPassword")).sendKeys("mat@3775");
+		driver.findElement(By.cssSelector("#signInPassword")).sendKeys("mat@3775");
 		
 		
 	}
