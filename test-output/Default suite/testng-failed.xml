@@ -6,7 +6,7 @@
       <class name="Edit.Proyect123mvd.Abercrombie1">
         <methods>
           <include name="abrirPagina"/>
-          <include name="RegistroUsuarioCorrecto"/>
+          <include name="IngresoUsuario"/>
         </methods>
       </class> <!-- Edit.Proyect123mvd.Abercrombie1 -->
     </classes>
